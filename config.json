@@ -1,0 +1,20 @@
+{
+  "watch": {
+    "video":     ["Runway", "Kling", "Luma", "Hailuo", "MiniMax", "Veo", "Wan", "Sora", "Seedance"],
+    "image":     ["Midjourney", "Flux", "Black Forest Labs", "Stability AI", "Ideogram", "Imagen", "Nano Banana"],
+    "audio":     ["ElevenLabs", "Suno", "Udio", "HeyGen", "Hedra"],
+    "platforms": ["Higgsfield", "Freepik", "ComfyUI", "OpenArt", "Artlist", "Weavy", "LTX Studio"],
+    "agents":    ["OpenClaw", "Claude Code", "LangChain"],
+    "chinese":   ["DeepSeek", "ByteDance", "Doubao", "Qwen", "Alibaba", "Kimi", "Moonshot"]
+  },
+  "rss_feeds": [
+    { "name": "OpenAI",          "url": "https://openai.com/blog/rss.xml",                         "status": "working", "checked": "2026-03-19" },
+    { "name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml",                    "status": "working", "checked": "2026-03-19" },
+    { "name": "Hugging Face",    "url": "https://huggingface.co/blog/feed.xml",                    "status": "working", "checked": "2026-03-19" },
+    { "name": "Cohere",          "url": "https://cohere.com/blog/rss",                             "status": "working", "checked": "2026-03-19" },
+    { "name": "Meta AI",         "url": "https://engineering.fb.com/category/ai-research/feed/",   "status": "working", "checked": "2026-03-19" },
+    { "name": "Anthropic",       "url": null,                                                       "status": "no_rss",  "checked": "2026-03-19", "note": "No public RSS feed — covered by Google Search" },
+    { "name": "xAI / Grok",      "url": null,                                                       "status": "paid",    "checked": "2026-03-19", "note": "API is paid only — do not attempt" },
+    { "name": "Mistral",         "url": "https://mistral.ai/news",                                  "status": "no_rss",  "checked": "2026-03-19", "note": "JS-rendered page, not RSS — covered by Google Search" }
+  ]
+}
