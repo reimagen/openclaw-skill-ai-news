@@ -2,7 +2,7 @@
 
 An [OpenClaw](https://openclaw.ai) skill that delivers a daily AI news digest to Telegram. Four sections, up to 8 stories each, headline + link format. Runs every morning.
 
-Built as part of the [30 Days of AI Systems](https://reimagen.ai) series.
+Published as part of the [30 Days of AI Systems](https://reimagen.ai) series.
 
 ## What it does
 
